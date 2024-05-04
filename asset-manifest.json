@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lorem-react/static/css/main.38c2a55c.css",
+    "main.js": "/lorem-react/static/js/main.03901251.js",
+    "index.html": "/lorem-react/index.html",
+    "main.38c2a55c.css.map": "/lorem-react/static/css/main.38c2a55c.css.map",
+    "main.03901251.js.map": "/lorem-react/static/js/main.03901251.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38c2a55c.css",
+    "static/js/main.03901251.js"
+  ]
+}
